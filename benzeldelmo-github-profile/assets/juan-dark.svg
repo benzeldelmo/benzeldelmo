@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="32" fill="#0D0D0F"/>
+<text x="72" y="92" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="1.4" fill="#74C69D">JUAN PROJECT</text>
+<text x="72" y="150" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="42" font-weight="700" letter-spacing="-1.2" fill="#F5F5F7">One brand. Two connected experiences.</text>
+<text x="72" y="190" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="20" fill="#A1A1A6">A real-world environment where I build, test, and improve the tools I actually use.</text>
+
+<rect x="72" y="244" width="500" height="214" rx="28" fill="#1C1C1E" stroke="#2C2C2E"/>
+<circle cx="112" cy="286" r="8" fill="#74C69D"/>
+<text x="136" y="294" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="26" font-weight="700" fill="#F5F5F7">Workspace</text>
+<text x="112" y="338" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="18" font-weight="600" fill="#F5F5F7">The system behind the work.</text>
+<text x="112" y="373" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="17" fill="#A1A1A6">Projects · Clients · Orders · Deliverables</text>
+<text x="112" y="402" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="17" fill="#A1A1A6">Payments · Services · Reports · Operations</text>
+<text x="112" y="436" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="15" font-weight="600" fill="#74C69D">HTML · CSS · JavaScript · Supabase</text>
+
+<rect x="628" y="244" width="500" height="214" rx="28" fill="#1C1C1E" stroke="#2C2C2E"/>
+<circle cx="668" cy="286" r="8" fill="#74C69D"/>
+<text x="692" y="294" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="26" font-weight="700" fill="#F5F5F7">Online</text>
+<text x="668" y="338" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="18" font-weight="600" fill="#F5F5F7">The experience clients see.</text>
+<text x="668" y="373" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="17" fill="#A1A1A6">Shop · Client portal · Service discovery</text>
+<text x="668" y="402" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="17" fill="#A1A1A6">Orders · Payments · Client access</text>
+<text x="668" y="436" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="15" font-weight="600" fill="#74C69D">HTML · CSS · JavaScript</text>
+</svg>

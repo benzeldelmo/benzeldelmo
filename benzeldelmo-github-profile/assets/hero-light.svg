@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<rect width="1200" height="420" rx="36" fill="#F5F5F7"/>
+<circle cx="600" cy="86" r="7" fill="#2D6A4F"/>
+<text x="600" y="158" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="60" font-weight="700" letter-spacing="-2" fill="#1D1D1F">Hello, I’m Benzel.</text>
+<text x="600" y="216" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="26" font-weight="500" fill="#6E6E73">Founder of JUAN PROJECT · BSIT Student</text>
+<text x="600" y="268" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="24" fill="#6E6E73">I build thoughtful tools for the web — with a strong interest in UI/UX.</text>
+<rect x="386" y="320" width="428" height="48" rx="24" fill="#2D6A4F" fill-opacity="0.10"/>
+<text x="600" y="351" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="18" font-weight="600" fill="#2D6A4F">HTML · CSS · JavaScript · Figma</text>
+</svg>

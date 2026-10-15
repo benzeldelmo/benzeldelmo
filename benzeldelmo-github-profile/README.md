@@ -1,106 +1,66 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Benzel Delmo — Founder of JUAN PROJECT">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+    <img alt="Benzel Delmo — Founder of JUAN PROJECT" src="./assets/hero-light.svg" width="100%">
+  </picture>
+</p>
+
+<br>
+
+<p align="center">
+  <strong>Developer · Designer · Founder</strong><br>
+  <sub>Building thoughtful web experiences and learning by solving real workflow problems.</sub>
 </p>
 
 <br>
 
 ## What I work with
 
-### Building with
-
-<p>
-  <img src="./assets/icons/html5.svg" height="38" alt="HTML5">&nbsp;&nbsp;&nbsp;
-  <img src="./assets/icons/css3.svg" height="38" alt="CSS">&nbsp;&nbsp;&nbsp;
-  <img src="./assets/icons/javascript.svg" height="38" alt="JavaScript">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg">
+    <img alt="Technology stack" src="./assets/stack-light.svg" width="100%">
+  </picture>
 </p>
 
-**HTML · CSS · JavaScript**
+<sub>
+Building with <strong>HTML, CSS, and JavaScript</strong>. I also have programming experience with <strong>Java, Python, and C++</strong>, and I’m currently learning <strong>React, TypeScript, Node.js, and Spring Boot</strong>. For design and product work, I use <strong>Figma</strong> and enjoy UI/UX design. I also use <strong>Supabase</strong> for backend services in my projects.
+</sub>
 
-### Programming experience
+<br><br>
 
-<p>
-  <img src="./assets/icons/java.svg" height="38" alt="Java">&nbsp;&nbsp;&nbsp;
-  <img src="./assets/icons/python.svg" height="38" alt="Python">&nbsp;&nbsp;&nbsp;
-  <img src="./assets/icons/cplusplus.svg" height="38" alt="C++">
+## Featured work
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/juan-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/juan-light.svg">
+    <img alt="JUAN PROJECT — Workspace and Online" src="./assets/juan-light.svg" width="100%">
+  </picture>
 </p>
 
-**Java · Python · C++**
+**JUAN PROJECT** is the creative service brand I founded. Its digital platform is split into two connected experiences:
 
-### Currently learning
-
-<p>
-  <img src="./assets/icons/react.svg" height="38" alt="React">&nbsp;&nbsp;&nbsp;
-  <img src="./assets/icons/typescript.svg" height="38" alt="TypeScript">&nbsp;&nbsp;&nbsp;
-  <img src="./assets/icons/nodejs.svg" height="38" alt="Node.js">&nbsp;&nbsp;&nbsp;
-  <img src="./assets/icons/spring.svg" height="38" alt="Spring Boot">
-</p>
-
-**React · TypeScript · Node.js · Spring Boot**
-
-### Design & backend tools
-
-<p>
-  <img src="./assets/icons/figma.svg" height="38" alt="Figma">&nbsp;&nbsp;&nbsp;
-  <img src="./assets/icons/supabase.svg" height="38" alt="Supabase">
-</p>
-
-**Figma · UI/UX Design · Supabase**
-
-### Exploring
-
-<p>
-  <img src="./assets/icons/react.svg" height="38" alt="React Native">&nbsp;&nbsp;&nbsp;
-  <img src="./assets/icons/dart.svg" height="38" alt="Dart">&nbsp;&nbsp;&nbsp;
-  <img src="./assets/icons/flutterflow.svg" height="38" alt="FlutterFlow">&nbsp;&nbsp;&nbsp;
-  <img src="./assets/icons/pwa.svg" height="38" alt="PWA">
-</p>
-
-**React Native · Dart · FlutterFlow · PWA · Mobile Development**
+- **Workspace** — my internal project-management environment for projects, clients, orders, deliverables, payments, services, reports, and operations.
+- **Online** — JUAN PROJECT’s designated shop and client portal for services, client access, orders, projects, and payments.
 
 <br>
 
----
+## Exploring next
 
-## JUAN PROJECT
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/explore-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/explore-light.svg">
+    <img alt="Technologies I am exploring" src="./assets/explore-light.svg" width="100%">
+  </picture>
+</p>
 
-<div align="center">
-
-### One brand. Two connected experiences.
-
-JUAN PROJECT is the creative service brand I founded and the main environment where I explore software, design, and product development.
-
-</div>
+I’m exploring **React Native, Dart, FlutterFlow, progressive web apps, and mobile development** — especially tools that can turn ideas and personal workflows into useful products.
 
 <br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### JUAN PROJECT Workspace
-
-**The system behind the work.**
-
-My internal project-management environment for managing JUAN PROJECT's projects, clients, orders, deliverables, payments, services, reports, and day-to-day operations.
-
-**Built with:** HTML · CSS · JavaScript · Supabase
-
-</td>
-<td width="50%" valign="top">
-
-### JUAN PROJECT Online
-
-**The experience clients see.**
-
-JUAN PROJECT's designated shop and client portal for presenting services, handling client access, and supporting interactions around projects, orders, and payments.
-
-**Built with:** HTML · CSS · JavaScript
-
-</td>
-</tr>
-</table>
-
----
 
 ## How I build
 
@@ -108,14 +68,9 @@ I like working at the intersection of **development, UI/UX, and product thinking
 
 JUAN PROJECT gives me a real environment where I can design around actual workflows, improve systems I personally use, test ideas, and continuously evolve the product as I learn.
 
-I'm especially interested in **web development, progressive web apps, workflow-focused tools, and eventually mobile development**.
+<br>
 
----
-
-<div align="center">
-
-### Designed with intention. Built through learning.
-
-<sub>BS Information Technology · Batangas State University</sub>
-
-</div>
+<p align="center">
+  <strong>Designed with intention. Built through learning.</strong><br>
+  <sub>BS Information Technology · Batangas State University</sub>
+</p>
